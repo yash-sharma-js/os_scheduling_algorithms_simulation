@@ -2,17 +2,6 @@
 
 Welcome to the **OS Scheduling Algorithms Simulation** project! This project provides a comprehensive simulation of various operating system scheduling algorithms. It is designed to help students and enthusiasts understand how different scheduling algorithms work and their impact on system performance.
 
-## **Table of Contents**
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Supported Scheduling Algorithms](#supported-scheduling-algorithms)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## **Introduction**
 
@@ -32,8 +21,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/OS_Scheduling_Algorithms_Simulation.git
-   cd OS_Scheduling_Algorithms_Simulation
+   git clone https://github.com/yourusername/os_scheduling_algorithms_simulation.git
+   cd os_scheduling_algorithms_simulation
    ```
 
    ## **Usage**
