@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import * 
 from main import root
-from tester import * 
+from structure_input import * 
 
 
 

@@ -1,9 +1,9 @@
-from fcfs import *
-from SJF1 import *
-from SJF2 import *
-from R_R import *
-from Priority import *
-from tester import *
+from algorithms.fcfs import *
+from algorithms.SJF1 import *
+from algorithms.SJF2 import *
+from algorithms.R_R import *
+from algorithms.Priority import *
+from structure_input import *
 
 
 
